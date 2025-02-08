@@ -1,0 +1,9 @@
+Detailed information on borrower characteristics, including credit scores and first-time homebuyer status
+Loan specifics such as original unpaid principal balance (UPB), loan-to-value ratio (LTV), and origination interest rate
+Property attributes such as occupancy type and property type
+Loan servicing details, including seller and servicer names
+Historical delinquency data, including whether the loan has ever been delinquent and the number of months delinquent
+Repayment timeline, including the first payment date and maturity date
+Geographical data such as Metropolitan Statistical Area (MSA) and property state
+Information on the number of units in the property and the purpose of the loan (e.g., purchase or refinance)
+Other factors such as debt-to-income ratio (DTI) and combined loan-to-value (OCLTV) ratio
