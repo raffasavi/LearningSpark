@@ -1,9 +1,17 @@
-Detailed information on borrower characteristics, including credit scores and first-time homebuyer status
-Loan specifics such as original unpaid principal balance (UPB), loan-to-value ratio (LTV), and origination interest rate
-Property attributes such as occupancy type and property type
-Loan servicing details, including seller and servicer names
-Historical delinquency data, including whether the loan has ever been delinquent and the number of months delinquent
-Repayment timeline, including the first payment date and maturity date
-Geographical data such as Metropolitan Statistical Area (MSA) and property state
-Information on the number of units in the property and the purpose of the loan (e.g., purchase or refinance)
-Other factors such as debt-to-income ratio (DTI) and combined loan-to-value (OCLTV) ratio
+Attribute Information:
+
+InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
+
+StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.
+
+Description: Product (item) name. Nominal.
+
+Quantity: The quantities of each product (item) per transaction. Numeric.
+
+InvoiceDate: Invice date and time. Numeric. The day and time when a transaction was generated.
+
+UnitPrice: Unit price. Numeric. Product price per unit in sterling (Â£).
+
+CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
+
+Country: Country name. Nominal. The name of the country where a customer resides.
